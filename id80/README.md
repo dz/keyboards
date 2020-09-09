@@ -1,6 +1,6 @@
 ## ID80 Configurations
 
-This is the QMK Configurator `keymap.json` file I use for the (IDOBAO ID80 75% keyboard)[https://www.idobao.net/products/idobao-id80-75-hot-swappable-mechanical-keyboard-kit].
+This is the QMK Configurator `keymap.json` file I use for the [IDOBAO ID80 75% keyboard](https://www.idobao.net/products/idobao-id80-75-hot-swappable-mechanical-keyboard-kit).
 
 The `keymap.json` creates the layout below.  Some notes:
 
